@@ -1,0 +1,13 @@
+C:\Users\Cuasay\source\repos\LendingManagementSystem\obj\Debug\netcoreapp3.1\LendingManagementSystem.csprojAssemblyReference.cache
+C:\Users\Cuasay\source\repos\LendingManagementSystem\obj\Debug\netcoreapp3.1\LendingManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Cuasay\source\repos\LendingManagementSystem\obj\Debug\netcoreapp3.1\LendingManagementSystem.AssemblyInfo.cs
+C:\Users\Cuasay\source\repos\LendingManagementSystem\obj\Debug\netcoreapp3.1\LendingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Cuasay\source\repos\LendingManagementSystem\bin\Debug\netcoreapp3.1\LendingManagementSystem.exe
+C:\Users\Cuasay\source\repos\LendingManagementSystem\bin\Debug\netcoreapp3.1\LendingManagementSystem.deps.json
+C:\Users\Cuasay\source\repos\LendingManagementSystem\bin\Debug\netcoreapp3.1\LendingManagementSystem.runtimeconfig.json
+C:\Users\Cuasay\source\repos\LendingManagementSystem\bin\Debug\netcoreapp3.1\LendingManagementSystem.runtimeconfig.dev.json
+C:\Users\Cuasay\source\repos\LendingManagementSystem\bin\Debug\netcoreapp3.1\LendingManagementSystem.dll
+C:\Users\Cuasay\source\repos\LendingManagementSystem\bin\Debug\netcoreapp3.1\LendingManagementSystem.pdb
+C:\Users\Cuasay\source\repos\LendingManagementSystem\obj\Debug\netcoreapp3.1\LendingManagementSystem.dll
+C:\Users\Cuasay\source\repos\LendingManagementSystem\obj\Debug\netcoreapp3.1\LendingManagementSystem.pdb
+C:\Users\Cuasay\source\repos\LendingManagementSystem\obj\Debug\netcoreapp3.1\LendingManagementSystem.genruntimeconfig.cache
