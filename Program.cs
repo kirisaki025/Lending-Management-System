@@ -4,18 +4,6 @@ namespace LendingManagementSystem
 {
     class program
     {
-        //Lending Management System
-        //>Amount of Loan = 10000
-        //>Withdraw = 0
-        //>Balance = 5000
-        //>Payment
-        // >>Montly Payment = 1000
-        // >> Number of Payments = 10
-        //> Acount Information
-        // >>Account Number = XV666A69
-        // >>Customer's Name = Patrick Gonzales
-        //Password = 05252002
-
         static void Main(string[] args)
         {
             Console.WriteLine("Lending Management System");
@@ -36,8 +24,8 @@ namespace LendingManagementSystem
                 Console.WriteLine();
                 if (accountNumberInput == accountNumber && passwordInput == password)
                 {
-                    Console.WriteLine("Transaction:");
-                    Console.WriteLine("Customer's Name: " + customerName);
+                    Console.WriteLine("Account Information:");
+                    Console.WriteLine("Customer Name: " + customerName);
                     Console.WriteLine("Amount of Loan: " + amountOfLoan);
                     Console.WriteLine("Monthly Payment: " + monthlyPayment);
                     Console.WriteLine("Number of Payments: " + numberOfPayments);
@@ -51,7 +39,22 @@ namespace LendingManagementSystem
                 }
             }
             Console.WriteLine();
-            Console.WriteLine("Input Amount of Money");
+            Console.WriteLine("Transaction:");
+            Console.Write("Repayment: ");
+            int repayment1 = Convert.ToInt32(Console.ReadLine());
+            if (repayment1 >= 1)
+            {
+                Console.WriteLine("Successfully Repayment");
+            }
+            else if (repayment1 <= 1)
+            {
+                Console.WriteLine("System will Proceed");
+            }
+            else
+            {
+                Console.WriteLine("Invalid Input. Please Try Again");
+            }
+            Console.WriteLine();
             Console.Write("Deposit: ");
             int deposit1 = Convert.ToInt32(Console.ReadLine());
             if (deposit1 >= 1)
@@ -73,14 +76,14 @@ namespace LendingManagementSystem
             {
                 Console.WriteLine("Successfully Withdraw");
             }
-            else if (deposit1 <= 1)
+            else if (withdraw1 <= 1)
             {
                 Console.WriteLine("System will Proceed");
             }   
             else
             {
                 Console.WriteLine("Invalid Input. Please Try Again");
-            }    
+            }
             Console.WriteLine("Transaction Complete");
         }
     }
