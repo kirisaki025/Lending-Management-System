@@ -45,7 +45,7 @@ namespace LendingManagementSystem
             }
             
             Console.WriteLine();
-            Console.WriteLine("Recently Loans");
+            Console.WriteLine("History Loans");
             string[,] bankloans =
             {
                 {
